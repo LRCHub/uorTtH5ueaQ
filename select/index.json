@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "うちら、恋人宣言！",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2025-12-04T16:54:12.404156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言！ (feat.服部樹里)",
+      "artist": "HoneyWorks feat.服部樹里(CV.佐倉綾音)",
+      "has_synced": true,
+      "path": "select/01_うちら、恋人宣言!_(feat.服部樹里)_HoneyWorks_feat.服部樹里(CV.佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言! (feat. 服部樹里",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_うちら、恋人宣言!_(feat._服部樹里_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言！",
+      "artist": "HoneyWorks feat. 服部樹里(CV:佐倉綾音)",
+      "has_synced": true,
+      "path": "select/03_うちら、恋人宣言!_HoneyWorks_feat._服部樹里(CV_佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言！",
+      "artist": "HoneyWorks feat.星川サラ",
+      "has_synced": true,
+      "path": "select/04_うちら、恋人宣言!_HoneyWorks_feat.星川サラ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言！",
+      "artist": "HoneyWorks feat.服部樹里",
+      "has_synced": true,
+      "path": "select/05_うちら、恋人宣言!_HoneyWorks_feat.服部樹里.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言！ (feat. 星川サラ)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_うちら、恋人宣言!_(feat._星川サラ)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言!",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_うちら、恋人宣言!_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言！",
+      "artist": "服部樹里",
+      "has_synced": true,
+      "path": "select/08_うちら、恋人宣言!_服部樹里.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言！ feat. 服部樹里（CV：佐倉綾音）／HoneyWorks",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_うちら、恋人宣言!_feat._服部樹里(CV_佐倉綾音)_HoneyWorks_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "うちら、恋人宣言！",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/10_うちら、恋人宣言!_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うちら、恋人宣言!",
+      "artist": "HoneyWorks, 服部樹里(CV:佐倉綾音)",
+      "has_synced": false,
+      "path": "select/pl_01_うちら、恋人宣言!_HoneyWorks,_服部樹里(CV_佐倉綾音).txt"
+    }
+  ]
+}
